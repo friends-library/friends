@@ -1,0 +1,253 @@
+name: Isaac Penington
+slug: isaac-penington
+description: Isaac Penington (1616–1679) fue criado en una familia rica e influyente, y cultivado y pulido con una buena y amplia educación. Sin embargo, las aspiraciones de Penington, desde sus primeros días, estaban enteramente fijadas en las cosas de arriba y no en las muchas cosas del mundo que estaban a su alcance. Él dice de sí mismo — “Desde mi niñez mi corazón fue apuntado hacia el Señor, de quien me ocupé y a quien busqué desde mis tiernos años. Yo sentía que no podía estar satisfecho con (ni buscar) las cosas de este mundo perecedero, las cuales naturalmente expiran, sino que deseaba un verdadero sentido y unidad con lo que permanece para siempre.” De hecho, el hambre y la desesperación de Penington por el verdadero conocimiento y experiencia de Dios fue un sello distintivo en su vida. Buscando, encontró; llamando, la puerta se abrió delante de él. Buscó al Señor con todo su corazón, mente y fuerza, y no cabe duda de que el Señor fue encontrado por él.
+documents:
+  -
+    title: Los Escritos de Isaac Penington — Volumen 1
+    slug: escritos-volume-1
+    description: Isaac Penington (1616–1679) fue criado en una familia rica e influyente, y cultivado y pulido con una buena y amplia educación. Sin embargo, las aspiraciones de Penington, desde sus primeros días, estaban enteramente fijadas en las cosas de arriba y no en las muchas cosas del mundo que estaban a su alcance. Él dice de sí mismo — “Desde mi niñez mi corazón fue apuntado hacia el Señor, de quien me ocupé y a quien busqué desde mis tiernos años. Yo sentía que no podía estar satisfecho con (ni buscar) las cosas de este mundo perecedero, las cuales naturalmente expiran, sino que deseaba un verdadero sentido y unidad con lo que permanece para siempre.” De hecho, el hambre y la desesperación de Penington por el verdadero conocimiento y experiencia de Dios fue un sello distintivo en su vida. Buscando, encontró; llamando, la puerta se abrió delante de él. Buscó al Señor con todo su corazón, mente y fuerza, y no cabe duda de que el Señor fue encontrado por él.
+    tags:
+      - devotional
+      - doctrinal
+      - letters
+    editions:
+      -
+        type: modernized
+        pages: 391
+        formats:
+          -
+            type: softcover
+          -
+            type: audio
+          -
+            type: pdf
+          -
+            type: epub
+          -
+            type: mobi
+        audio:
+          reader: Jason Henderson
+          parts:
+            -
+              title: Part 1 # All of these audio parts are for the ENGLISH audiobook, and need to be redone for Spanish.
+              external_id_hq: 236087816
+              external_id_lq: 236087828
+              filesize_hq: 48529714
+              filesize_lq: 17356902
+              seconds: 2893
+              chapters:
+                - 1
+            -
+              title: Part 2
+              external_id_hq: 236524198
+              external_id_lq: 236524217
+              filesize_hq: 75738836
+              filesize_lq: 26268630
+              seconds: 4378
+              chapters:
+                - 2
+            -
+              title: Part 3
+              external_id_hq: 236683327
+              external_id_lq: 236683342
+              filesize_hq: 39053040
+              filesize_lq: 13621398
+              seconds: 2270
+              chapters:
+                - 3
+            -
+              title: Part 4
+              external_id_hq: 237550758
+              external_id_lq: 237550789
+              filesize_hq: 59657453
+              filesize_lq: 20848974
+              seconds: 3475
+              chapters:
+                - 4
+            -
+              title: Part 5
+              external_id_hq: 238137305
+              external_id_lq: 238137322
+              filesize_hq: 56478533
+              filesize_lq: 19811526
+              seconds: 3302
+              chapters:
+                - 5
+            -
+              title: Part 6
+              external_id_hq: 239750518
+              external_id_lq: 239750527
+              filesize_hq: 29288690
+              filesize_lq: 10044870
+              seconds: 1674
+              chapters:
+                - 6
+            -
+              title: Part 7
+              external_id_hq: 240543643
+              external_id_lq: 240543651
+              filesize_hq: 20944960
+              filesize_lq: 7229094
+              seconds: 1205
+              chapters:
+                - 7
+            -
+              title: Part 8
+              external_id_hq: 241597674
+              external_id_lq: 241597696
+              filesize_hq: 37147519
+              filesize_lq: 12809670
+              seconds: 2135
+              chapters:
+                - 8
+            -
+              title: Part 9
+              external_id_hq: 242604613
+              external_id_lq: 242604639
+              filesize_hq: 66885314
+              filesize_lq: 22970958
+              seconds: 3828
+              chapters:
+                - 9
+            -
+              title: Part 10
+              external_id_hq: 243225597
+              external_id_lq: 243225603
+              filesize_hq: 40132402
+              filesize_lq: 13754022
+              seconds: 2292
+              chapters:
+                - 10
+            -
+              title: Part 11
+              external_id_hq: 243893816
+              external_id_lq: 243893833
+              filesize_hq: 43985097
+              filesize_lq: 15327150
+              seconds: 2554
+              chapters:
+                - 11
+            -
+              title: Part 12
+              external_id_hq: 244568244
+              external_id_lq: 244568263
+              filesize_hq: 78001236
+              filesize_lq: 27153582
+              seconds: 4525
+              chapters:
+                - 12
+            -
+              title: Part 13
+              external_id_hq: 246068270
+              external_id_lq: 246068288
+              filesize_hq: 52201684
+              filesize_lq: 18209238
+              seconds: 3035
+              chapters:
+                - 13
+            -
+              title: Part 14
+              external_id_hq: 246690863
+              external_id_lq: 246690872
+              filesize_hq: 52322221
+              filesize_lq: 18234510
+              seconds: 3039
+              chapters:
+                - 14
+            -
+              title: Part 15
+              external_id_hq: 247512245
+              external_id_lq: 247512254
+              filesize_hq: 26640560
+              filesize_lq: 9233790
+              seconds: 1539
+              chapters:
+                - 15
+            -
+              title: Part 16
+              external_id_hq: 248324309
+              external_id_lq: 248324313
+              filesize_hq: 42208697
+              filesize_lq: 14992998
+              seconds: 2499
+              chapters:
+                - 16
+            -
+              title: Part 17
+              external_id_hq: 249040062
+              external_id_lq: 249040091
+              filesize_hq: 51711685
+              filesize_lq: 18323502
+              seconds: 3054
+              chapters:
+                - 16
+            -
+              title: Part 18
+              external_id_hq: 249649399
+              external_id_lq: 249649406
+              filesize_hq: 54120845
+              filesize_lq: 18589182
+              seconds: 3098
+              chapters:
+                - 16
+            -
+              title: Part 19
+              external_id_hq: 250650800
+              external_id_lq: 250650827
+              filesize_hq: 41260770
+              filesize_lq: 15023238
+              seconds: 2504
+              chapters:
+                - 16
+
+        chapters:
+          -
+            title: Prefacio
+          -
+            number: 1
+            subtitle: Biografía de Isaac Penington
+          -
+            number: 2
+            subtitle: El Camino de la Vida y de la Muerte Hecho Manifiesto y Puesto Delante de los Hombres
+          -
+            number: 3
+            subtitle: Algunos Principios que Guían Hacia Afuera de la Apostasía
+          -
+            number: 4
+            subtitle: El Hacha Está Puesta a la Raíz del Antiguo Árbol Corrupto
+          -
+            number: 5
+            subtitle: En Busca de Las Ovejas Esparcidas
+          -
+            number: 6
+            subtitle: Babilonia la Grande – La Ciudad de Confusión
+          -
+            number: 7
+            subtitle: Las Sagradas Escrituras
+          -
+            number: 8
+            subtitle: La Autoridad y Gobierno que Cristo Excluyó de Su Iglesia
+          -
+            number: 9
+            subtitle: La Diferencia Entre el Nuevo Pacto del Evangelio y el Antiguo Pacto de la Ley
+          -
+            number: 10
+            subtitle: La Oración, el Ministerio, la Sabiduría y el Reino que son Espirituales
+          -
+            number: 11
+            subtitle: Algunas Directrices Para el Alma Anhelante
+          -
+            number: 12
+            subtitle: Algunas Preguntas y Respuestas Para Que los Ojos Sean Abiertos
+          -
+            number: 13
+            subtitle: La Suma y Sustancia de la Verdadera Religión
+          -
+            number: 14
+            subtitle: Las Dos Semillas
+          -
+            number: 15
+            subtitle: Cómo Discernir las Enseñanzas de Cristo
+          -
+            number: 16
+            subtitle: Las Cartas de Isaac Penington 1658 - 1671
